@@ -1,18 +1,5 @@
 [
-{
-    "domain": ".hotstar.com",
-    "expirationDate": 1540648139,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_fbp",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "fb.1.1540640226326.51867962",
-    "id": 1
-},
+
 {
     "domain": ".hotstar.com",
     "expirationDate": 1603712363,
@@ -26,20 +13,6 @@
     "storeId": "0",
     "value": "GA1.2.19261169.1540640226",
     "id": 2
-},
-{
-    "domain": ".hotstar.com",
-    "expirationDate": 1540640423,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_gat_UA-53733575-1",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "1",
-    "id": 3
 },
 {
     "domain": ".hotstar.com",
